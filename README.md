@@ -13,4 +13,5 @@ Welcome to the Handwritten Image file to PDF Converter, a collaborative project 
 
 - Closed for nodification, open for extension
 
-  We are looking to develop more of a front-end using React in the near future
+  We are looking to develop more of a front-end using React in the near future.
+  
