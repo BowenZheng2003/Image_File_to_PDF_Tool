@@ -8,10 +8,12 @@ Welcome to the Handwritten Image file to PDF Converter, a collaborative project 
 - Text extraction from images using Google Vision API.
 - Customizable PDF generation with font support.
 - User-friendly web interface for uploading images.
+  
+## Future
 
-- ## Future
+Closed for nodification, open for extension
 
-- Closed for nodification, open for extension
+We are looking to develop more of a front-end using React in the near future.
 
-  We are looking to develop more of a front-end using React in the near future.
+We are also incorporating MySQL for a back-end database.
   
